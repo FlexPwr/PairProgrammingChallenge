@@ -1,0 +1,10 @@
+version: "3.9"
+services:
+  exchange:
+    build: exchange
+    ports:
+      - "5050:5050"
+  market-data-api:
+    build: market-data-provider
+    ports:
+      - "5060:5060"
