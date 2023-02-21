@@ -1,0 +1,7 @@
+1.	[ ] Agree on the high-level goal out loud.
+2.	[ ] Break the work into a handful of tasks and prioritize them.
+3.	[ ] Decide your driver/navigator swapping strategy.
+4.	[ ] Configure git to share credit.
+5.	[ ] Eliminate distractions.
+6.	[ ] Work.
+7.	[ ] Analyze the session with a mini retro.
